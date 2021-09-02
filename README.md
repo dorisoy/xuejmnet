@@ -1,4 +1,6 @@
 ### Hi i'm xuejmnet 👋
+email: [326308290@qq.com](mailto:326308290@qq.com)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuejmnet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xuejmnet/xuejmnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
