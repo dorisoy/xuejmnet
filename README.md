@@ -1,5 +1,6 @@
 ### Hi i'm xuejmnet 👋
-email: [326308290@qq.com](mailto:326308290@qq.com)
+Blogs: [xuejiaming](https://www.cnblogs.com/xuejiaming/)
+Emails📧: [326308290@qq.com](mailto:326308290@qq.com)、[xuejaiming1@hotmail.com](mailto:xuejaiming1@hotmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuejmnet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
