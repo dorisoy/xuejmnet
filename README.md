@@ -3,7 +3,7 @@ Blogs: [xuejiaming](https://www.cnblogs.com/xuejiaming/)
 
 Emails📧: [326308290@qq.com](mailto:326308290@qq.com)、[xuejaiming1@hotmail.com](mailto:xuejaiming1@hotmail.com)
 
-[![xuejmnet's github stats](https://github-readme-stats.vercel.app/api?username=xuejmnet)](https://github.com/xuejmnet/github-readme-stats)
+[![xuejmnet's github stats](https://github-readme-stats.vercel.app/api?username=xuejmnet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xuejmnet/xuejmnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
