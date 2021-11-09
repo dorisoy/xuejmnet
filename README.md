@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![xuejmnet's Github Stats](https://github-readme-stats.vercel.app/api?username=xuejmnet&show_icons=true)
+
+
+
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=xuejmnet&theme=flat&no-frame=true&margin-w=30" />
+</div>
